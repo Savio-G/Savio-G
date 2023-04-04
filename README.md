@@ -1,4 +1,4 @@
-![logo](https://github.com/Savio-G/Savio-G/blob/main/githubbanner.png)
+![logo]([https://github.com/Savio-G/Savio-G/blob/main/githubbanner.png)
 # 🌌 Savio Ariyan Gomes
 
 ***`Digital creator(Web Developer/Front-End Developer)`***
